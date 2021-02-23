@@ -1,5 +1,5 @@
 {
-  "name": "node-vk-bot-api",
+  "name": "@redcarti/node-vk-bot-api",
   "version": "3.4.0",
   "description": "🤖 VK bot framework for Node.js, based on Bots Long Poll API and Callback API",
   "main": "lib/index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/node-vk-bot-api/node-vk-bot-api.git"
+    "url": "git+https://github.com/redcarti/node-vk-bot-api.git"
   },
   "keywords": [
     "vk",
